@@ -14,4 +14,4 @@ The styling of the page is very simple and was done using bootstrap.<img width="
 <img width="1011" alt="Screenshot 2023-02-14 at 9 58 32 PM" src="https://user-images.githubusercontent.com/70146427/218759337-172ff961-de82-459f-939a-be292872f8f0.png">
 
 ### Instructions to run app
-This app cannot be run outside of my own computer as I have removed the .env file containing information pertaining to the postgres account.
+This app is not meant to be run outside of my own computer as I have removed the .env file containing information pertaining to the postgres account.
