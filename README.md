@@ -1,6 +1,8 @@
 # Basic Restaurant Finder App
 
-This is a basic restaurant finder app that I built to learn about the PERN stack (postgreSQL, Express, React, Node.js).
+This is a basic restaurant finder app that I built to learn about the PERN stack (postgreSQL, Express, React, Node.js). It was done closely following the FreeCodeCamp tutorial with some minor changes in terms of implementation as a way to test my understanding of the code.
+
+The tutorial is available here: https://www.youtube.com/watch?v=J01rYl9T3BU.
 
 ### Features
 The app supports basic CRUD operations. Specifically: creating a new restaurant with its location and price range indicated, updating the info of the restaurant, deleting the restaurant and viewing the details of the restaurant.
